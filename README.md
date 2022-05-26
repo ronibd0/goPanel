@@ -1,7 +1,7 @@
-#aaPanel Docker Deployment
+#goPanel Docker Deployment
 The docker image is officially released by aaPanel
 
-Maintained by: [aaPanel](https://www.aapanel.com)
+Maintained by: [aaPanel](https://www.goisp.net)
 
 
 
@@ -11,9 +11,9 @@ Maintained by: [aaPanel](https://www.aapanel.com)
 
 Now you can access aaPanel at http://youripaddress:8886/ from your host system.
 
-Default username:`aapanel`
+Default username:`gopanel`
 
-Default password:`aapanel123`
+Default password:`gopanel123`
 
 ####Port usage analysis
 Control Panel   : 8888
